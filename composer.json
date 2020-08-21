@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Themplate": "src/"
+            "Themplate\\": "src/"
         }
     }
 }
