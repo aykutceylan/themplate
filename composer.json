@@ -1,0 +1,22 @@
+{
+    "name": "aykutceylan/themplate",
+    "description": "PHP theme template library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aykut Ceylan",
+            "email": "ayktcylan@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Themplate": "src/"
+        }
+    }
+}
